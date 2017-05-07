@@ -1,0 +1,13 @@
+[19-Dec-2016 17:13:22 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1549
+[19-Dec-2016 17:13:22 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1554
+[19-Dec-2016 17:13:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php:1549) in /home/lombardipil/public_html/chat/cometchat/admin/chatrooms.m.php on line 124
+[19-Dec-2016 17:13:55 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1549
+[19-Dec-2016 17:13:55 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1554
+[19-Dec-2016 17:13:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php:1549) in /home/lombardipil/public_html/chat/cometchat/admin/chatrooms.m.php on line 124
+[19-Dec-2016 17:13:57 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1549
+[19-Dec-2016 17:13:57 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1554
+[19-Dec-2016 17:13:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php:1549) in /home/lombardipil/public_html/chat/cometchat/admin/chatrooms.m.php on line 124
+[20-Dec-2016 09:30:28 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1549
+[20-Dec-2016 09:30:28 UTC] PHP Notice:  Undefined index: user in /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php on line 1554
+[20-Dec-2016 09:30:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lombardipil/public_html/chat/cometchat/cometchat_shared.php:1549) in /home/lombardipil/public_html/chat/cometchat/admin/chatrooms.m.php on line 151
+[20-Dec-2016 09:34:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lombardipil/public_html/chat/cometchat/admin/chatrooms.m.php on line 165

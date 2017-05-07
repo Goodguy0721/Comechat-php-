@@ -1,0 +1,18 @@
+<?php
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/* SETTINGS START */
+
+$serverURL = 'http://localhost:8800';
+$agentURL = 'http://localhost:8080';
+$migratorydataPublisherType = 'system';
+
+/* SETTINGS END */
+
+/*
+$serverURL is the value 'Listen' from Migratory configuration
+$agentURL is the value 'Listen' from MigratoryData-Agent configuration
+$migratorydataPublisherType is the value 'Type' from MigratoryData-Agent configuration
+*/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

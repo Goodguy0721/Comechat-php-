@@ -1,0 +1,90 @@
+#cometchat_newcompose {
+    display: none !important;
+}
+
+#cometchat_self_right {
+    width: 500px;
+}
+
+#livingwith {
+    /*float: right;
+    margin-top: -38px;*/
+    position: absolute;
+    top: 10px;
+    right: 100px;
+}
+
+#livingwith #livingwith_title {
+    padding: 12px 25px;
+    float: right;
+    display: block;
+    height: 18px;
+    width: 350px;
+}
+
+#livingwith select {
+    background: #fff;
+    line-height: 30px;
+    display: inline-block;
+    width: 260px;
+    height: 30px;
+}
+
+#location {
+    /*float: right;
+    margin-top: -30px;*/
+    position: absolute;
+    top: 10px;
+    right: 370px;
+}
+
+#location #location_title {
+    padding: 12px 25px;
+    float: right;
+    display: block;
+    height: 18px;
+    width: 350px;
+}
+
+#location-autocomplete {
+    display: inline-block;
+    position: relative;
+}
+
+#location input[type=text] {
+    background: #fff;
+    line-height: 26x;
+    display: inline-block;
+    width: 175px;
+    height: 26px;
+}
+
+#location-dropdown {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    max-height: 200px;
+    background: #fff;
+    color: #000;
+    overflow: auto;
+    z-index: 1000;
+}
+
+#location-dropdown ul,
+#location-dropdown ul li {
+    list-style-type: none;
+}
+
+#location-dropdown ul {
+    margin: 0;
+    padding: 0;
+    border: 1px solid #ccc;
+}
+
+#location-dropdown ul li {
+    padding: 10px;
+}
+
+#cometchat_notification {
+    float: right;
+}
